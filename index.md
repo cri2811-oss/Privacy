@@ -1,5 +1,5 @@
 # Informativa sulla Privacy di HorseRing
-Ultimo aggiornamento: 26 Febbraio 2026
+Ultimo aggiornamento: 15 Marzo 2026
 
 La presente Informativa sulla Privacy descrive come HorseRing (di seguito l' "App", "noi", "nostro") raccoglie, utilizza e protegge le tue informazioni quando utilizzi i nostri servizi. Siamo impegnati a garantire la tua privacy in conformità con le direttive internazionali (GDPR) e le regole di Google Play Store.
 
@@ -7,7 +7,7 @@ La presente Informativa sulla Privacy descrive come HorseRing (di seguito l' "Ap
 Il titolare del trattamento dei dati è:
 
 Nome: MOZZI (Sviluppatore amatoriale individuale)
-Contatto Email: cri2811@gmail.com
+Contatto Email: horseringapp@gmail.com
 
 ## 2. Tipologia di Dati Raccolti
 Raccogliamo solo i dati strettamente necessari per il funzionamento del servizio:
@@ -31,8 +31,9 @@ Trattiamo i tuoi dati sulla base delle seguenti condizioni:
 - **Consenso:** Fornito esplicitamente al momento dell'attivazione dei permessi (Microfono, Contatti, Notifiche).
 
 ## 5. Conservazione dei Dati
-I messaggi audio e i dati relativi alle chiamate sono conservati fino a quando non decidi di eliminarli o finché sono necessari per il servizio.
-Il tuo numero di telefono e il token di notifica sono conservati finché il tuo account è attivo.
+- I messaggi audio (dati vocali) vengono automaticamente eliminati dai nostri server entro 24 ore dalla loro creazione, indipendentemente dal fatto che vengano ascoltati o meno.
+- Al momento dell'ascolto o del rifiuto di un messaggio, il file audio temporaneo viene eliminato anche dalla memoria cache del tuo dispositivo.
+- Il tuo numero di telefono e il token di notifica sono conservati finché il tuo account è attivo o fino a tua richiesta di cancellazione.
 
 ## 6. Terze Parti e Sicurezza
 Utilizziamo servizi di terze parti affidabili per il funzionamento dell'App:
